@@ -35,10 +35,9 @@ I believe in continuous learning and professional development. Here are some of 
 
 ## Technologies & Tools I Use
 
-<p align="left">
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-  </a>
+
+* **Azure**
+* **SharePoint**
+* **Power Platform**
+* **AWS**
+* **AI**
